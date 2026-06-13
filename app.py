@@ -4,7 +4,7 @@ import streamlit as st
 # =============================
 # CONFIG
 # =============================
-API_BASE = "https://cinemax-movie-recommender.onrender.com" or "http://192.168.1.33:8501"
+API_BASE = "https://cinemax-api-0w1x.onrender.com" or "http://192.168.1.33:8501"
 TMDB_IMG = "https://image.tmdb.org/t/p/w500"
 
 st.set_page_config(page_title="CineMatch", page_icon="🎬", layout="wide")
